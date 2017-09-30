@@ -1,4 +1,4 @@
-package L1;
+package L1_10.L1;
 
 import java.util.Scanner;
 
