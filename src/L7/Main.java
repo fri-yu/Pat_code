@@ -1,4 +1,4 @@
-package pat.L7;
+package L7;
 
 /**
  * Package : pat.L7

@@ -1,4 +1,4 @@
-package pat.L1;
+package L1;
 
 import java.util.Scanner;
 
