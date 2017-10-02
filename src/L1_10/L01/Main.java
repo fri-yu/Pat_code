@@ -1,9 +1,9 @@
-package L1_10.L1;
+package L1_10.L01;
 
 import java.util.Scanner;
 
 /**
- * Package : pat.L1
+ * Package : pat.L01
  *
  * @author YixinCapital -- jieliyu 2017年09月01日 14:59:00
  */

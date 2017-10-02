@@ -1,12 +1,11 @@
-package L1_10.L3;
+package L1_10.L03;
 
 /**
- * Package : pat.L3
+ * Package : pat.L03
  *
  * @author YixinCapital -- jieliyu
  *         2017年09月01日 16:27:00
  */
-import javax.sound.midi.Soundbank;
 import java.util.Scanner;
 
 public class Main {

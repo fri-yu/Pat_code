@@ -1,7 +1,7 @@
-package L1_10.L6;
+package L1_10.L06;
 
 /**
- * Package : pat.L6
+ * Package : pat.L06
  *
  * @author YixinCapital -- jieliyu
  *         2017年09月02日 17:15:00

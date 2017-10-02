@@ -1,7 +1,7 @@
-package L1_10.L7;
+package L1_10.L07;
 
 /**
- * Package : pat.L7
+ * Package : pat.L07
  *
  * @author YixinCapital -- jieliyu
  *         2017年09月28日 16:59:00
